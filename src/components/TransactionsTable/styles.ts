@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.div`
   margin-top: 4rem;
@@ -6,7 +6,6 @@ export const Container = styled.div`
   table {
     width: 100%;
     border-spacing: 0 0.5rem;
-
 
     th {
       color: var(--text-body);
@@ -21,7 +20,6 @@ export const Container = styled.div`
       border: 0;
       background: var(--shape);
       color: var(--text-body);
-
 
       &:first-child {
         color: var(--text-title);
