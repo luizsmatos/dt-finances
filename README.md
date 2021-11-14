@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="dt-money" src="" width="500px"/>
+    <img alt="dt-money" src="./layout.png" width="500px"/>
 </h1>
 
 <br>
@@ -35,11 +35,8 @@ $ yarn
 
 # Iniciar o projeto
 $ yarn start
+
+# Iniciar os testes
+$ yarn test
 ```
-
-## 💻 Funcionalidades Futuras
-- Página de Login.
-- Remover despesa.
-- Editar despesa.
-
 ---
